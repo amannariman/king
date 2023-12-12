@@ -10,13 +10,8 @@
     <p>Группа: ФЕК 231 </p>
     <p>Штрих-код:6B01505</p>
 
-    <button onclick="openPortfolio()">Электрондық портфолио</button>
+      <a href="https://[docs.google.com/presentation/d/1h7nJqrlCJ9rW9mZOsX61fHLpuZcVLYRoXB_jMp6BgFI/edit?usp=sharing](https://jandos99jm.wixsite.com/nariman-e-p)https://jandos99jm.wixsite.com/nariman-e-p">Электрондық портфолия</a>
 
-    <script>
-        function openPortfolio() {
-            window.open("https://jandos99jm.wixsite.com/nariman-e-p", "_blank");
-        }
-    </script>
 
 </body>
 </html>
